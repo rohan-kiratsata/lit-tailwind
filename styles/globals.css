@@ -6,6 +6,6 @@
 @tailwind utilities;
 
 .code-btn {
-  @apply bg-gray-200 px-2 py-1 rounded-full text-base font-medium
+  @apply bg-gray-200 px-2 py-1 rounded-sm text-base font-medium
   flex items-center;
 }
